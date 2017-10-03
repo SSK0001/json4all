@@ -1,5 +1,5 @@
 {
-  "name": "package2",
+  "name": "JSON4all",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/SSK0001/json4all/LICENSE-MIT"
+    }
+  ]
 }
