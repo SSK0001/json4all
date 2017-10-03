@@ -18,6 +18,7 @@
   4.  Search
   5.  Sorting (key/Value/Alphabetical)
   6.  Schema Changing
+  7.  Generating the Routes for the json 
 */
 
 function compareAndCount(object_1,object_2){
